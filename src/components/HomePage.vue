@@ -58,13 +58,13 @@ export default defineComponent({
       slide: ref("style"),
       lorem_title: "Lorem Ipsum",
       lorem_content:
-        "**Chatbot name** is an AI powered chatbot used to help you book an appointment with a doctor best suited for your needs. **Chatbot name** is designed to be a simple user experience. To get started, just type your symptoms and **Chatbot name** will guide you to booking your appointment. Any data you input will only be shared with your doctor and is completely confidential..",
+        "Trichat is an AI powered chatbot used to help you book an appointment with a doctor best suited for your needs. Trichat is designed to be a simple user experience. To get started, just type your symptoms and Trichat will guide you to booking your appointment. Any data you input will only be shared with your doctor and is completely confidential..",
       main_title: "Medical Chatbot",
       main_content:
         "Our medical AI simplifies healthcare journeys and helps people take care of themselves.A medical Chatbot is an artificail inteligence chatbot that helps our paitents be cured without going to see a docter by using our system from home where it is easy and acceseble to everybody.",
       main_title2: "Medical Chatbot",
       main_content2:
-        "**Chatbot name** is an AI powered chatbot used to help you book an appointment with a doctor best suited for your needs.",
+        "Trichat is an AI powered chatbot used to help you book an appointment with a doctor best suited for your needs.",
     };
   },
 });
